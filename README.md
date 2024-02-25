@@ -2,6 +2,7 @@
 A game that allows people to shadow puppet a story that other people have to guess the name to.
 
 ![Logo](./image1.png)
+![Demo](./Screenshot 2024-02-25 072750.png)
 
 **The entire demo of the project can be found on [YouTube](https://youtu.be/VMIgoVEDtUk).**
 
