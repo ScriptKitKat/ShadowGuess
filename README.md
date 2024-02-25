@@ -6,3 +6,11 @@ Exe file (won't upload to github since it is too big): https://drive.google.com/
 Use code from here for hand outline: https://pyimagesearch.com/2016/04/11/finding-extreme-points-in-contours-with-opencv/
 
 ![Logo](./image1.png)
+
+**The entire demo of the project can be found on [YouTube](https://youtu.be/VMIgoVEDtUk).**
+
+## Technologies and Tools
+* Python 
+* MediaPipe
+* PyGame
+* OpenCV
